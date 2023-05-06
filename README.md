@@ -1,4 +1,6 @@
-Rudimentary almost realtime hair simulation in Houdini OpenCL using FTL 
+Near-realtime hair simulation in Houdini OpenCL based on https://matthias-research.github.io/pages/publications/FTLHairFur.pdf
+
+![alt text](https://github.com/sunny-lan/hairsim/raw/main/images/Picture1.gif)
 
 ![alt text](https://github.com/sunny-lan/hairsim/raw/main/images/hair_demo_8.gif)
 
